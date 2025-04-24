@@ -6,9 +6,13 @@ This project involves a complete pipeline for text classification, from data pre
 
 * Data Preprocessing:
     Applied standard Natural Language Processing (NLP) techniques, including:
+  
         - Tokenization
+  
         - Lowercasing and punctuation removal
+  
         - Stop word removal
+  
         - Lemmatization
 
 * Feature Extraction:
